@@ -1,0 +1,37 @@
+ERA PRA USAR VIRTUAL BOX;
+
+CLI: Interface de Linha de Comando;
+Serve para fazer os comandos, muitos usuários tem medo do LINUX por causa dos mesmos;
+
+VANTAGENS: Criação do GUI (Interface Gráfica do Usuário), mesmo sendo menos poderosa do que a CLI, já que a mesma é por comandos, GUI não;
+GUI é mais fácil do que CLI, pois tem maior capacidade visual e é mais atraente;
+
+Em Windows Server, existe uma opção chamada Core Server, aonde não existe GUI, facilitando a máquina, pois GUI usa mais recursos computacionais;
+
+DESVANTAGENS: GUI pede mais recursos do que CLI;
+Em CLI podemos fazer oque quiseer, desde que o comando esteja correto;
+GUI pode se tornar repetitivo sem o CLI;
+CLI tem controle total sobre o PC;
+
+Ou seja, GUI é mais fácil, CLI é mais poderoso;
+
+SHELL: Base do CLI, é ele quem processa os comandos do CLI, é a ponte entre o usuário e o sistema operacional;
+Ao rodar um SHELL, se pode fazer tudo o que um compilador comum faz (arquivos, diretórios, abre e fecha programas e etc);
+
+Um dos mais famosos é o CMD (prompt de comando);
+
+UNIX, MINIX e LINUX usam modo textual, CLI;
+
+Ao executar o comando, existem:
+Comando;
+Argumento;
+Opção;
+Porém, nem todo comando usa essas 3;
+
+Argumento diz aonde o comando deve rodar;
+Opção pede a modificação do resultado;
+
+
+
+
+

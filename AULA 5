@@ -1,0 +1,29 @@
+#!/bin/bash: como se fosse int main
+
+chmod +x sistema.sh: Modifica as permissões;
+
+echo: printf
+read: scanf
+
+<variavel>=$<valor de uma variavel, ex: variavel=$date
+
+| (pipe) = combina comandos;
+
+cat = mostra todo o arquivo
+grep = procura pela palavra ou letra
+cut = pega tantas linhas nesse código
+
+Usando Pipe, pode-se fazer:
+prompt$ cat /etc/passwd | grep root | cut -c1-10 > saída
+
+test = condição
+fi = fechamento de chaves
+
+if test "$VARIAVEL" -gt 10
+  then
+    echo "é maior que 10“
+  else
+    echo "é menor que 10“
+fi
+
+while: test para saber se a condição verdadeira

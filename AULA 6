@@ -1,0 +1,21 @@
+Nós temos 3 camadas:
+HARDWARE;
+SISTEMA OPERACIONAL;
+APLICAÇÕES;
+
+CPU é o centro da arquitetura de sistemas computacionais, em hardware;
+ela que executa todos os códigos;
+
+Temos barramentos, registradores 
+
+RAM: memória volátil, usada para dados que são usados imediatamente;
+DISCO RIGIDO: aonde fica tudo salvo, guardado;
+
+SOFTWARE tem controle total sob o hardware, o USB é um exemplo, um driver USB bom, trará muito mais eficiência para o mesmo USB;
+
+Em aplicações, só existem 1 mouse, o qual emula o mesmo mouse para outros, isso é chamado de máquina virtual, também, o que divide o mesmo hardware para várias coisas;
+
+Escalonador é o gerente das filas, prioridades, tempo de processamento e etc;
+Se tirarmos ele, não tera um módulo que verifica prioridades, o qual é executa um, termina esse e então vai para o próximo;
+
+

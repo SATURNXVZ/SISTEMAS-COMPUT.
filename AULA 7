@@ -1,0 +1,16 @@
+Quando o sistema liga, existe uma lista de apps que iniciam junto do sistema, essa que pode ser alterada;
+
+o fim do processo pode acontecer por vários motivos, seja a saída esperada, ou saída de erro, ou etc;
+
+PID: Process Indentify
+Cada processo tem um ID específico, e por mais que seja o mesmo programa, os IDs são diferentes;
+
+Processos ao serem inicializados entram na fila, aonde o passo 1 é
+PRONTO: Prontos para ser executados;
+PROCESSADOS: Dentro do processador, para Terminado ou voltado para o pronto, mas existe outro caso, EM ESPERA, aonde após processado, o dado precisa de resposta do sistema;
+
+Escalonador: Sem ela, não teremos uma  fila circular, apenas processos rodando sem nenhum fator determinante em relação à importância do mesmo;
+
+TRANSIÇÕES DE ESTADO: Roda um pouco e vai para o próximo, de assim em diante, porém, ela guarda o contexto do processo.
+Quando pausado por essa interrupção do pouquinho, a transição de estado guarda os dados do processo, para usar novamente;
+ARMAZENAMENTO DO ESTADO: Assim que o p1 for pausado, armazena p1 e entra p2, carrega um pouco e salva p2, então carrega p1 e assim em diante

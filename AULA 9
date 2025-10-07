@@ -1,0 +1,15 @@
+Windows Server;
+Gerenciador de Hardware, de Memória, de software e de dados são necessários para o funcionamento de um servidor, mas em diferente ao windows Home, ou seja, o que usamos, o Windows Server;
+
+Podemos disparar pacotes para atualização para outros dispositivos.
+Terminal services: Podemos usar quantas licencas quisermos, como se cada uma fosse um dispositivo;
+
+SERVIÇOS DE CLUSTER: Faz vários servidores rodarem simultaneamente, rodando o mesmo software ou processo.
+
+Transformar o servidor em um depositório de dados para armazenamento.
+
+CONTROLADOR DE DOMÍNIO: Quando uma estrutura envolve várias coisas, pode-se dividir em pedaços, facilitando a divisão de tarefas e processamento.
+
+MMC: Console de Gerenciamento da Microsoft;
+
+Área de Trabalho Remota: a vantagem de usar, é que ele simula o windows pela internet;
